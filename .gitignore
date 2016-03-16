@@ -63,4 +63,3 @@ target/
 
 #Excluding the data folder
 data/*
-graphs/*
